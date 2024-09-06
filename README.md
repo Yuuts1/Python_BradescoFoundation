@@ -12,4 +12,7 @@ Meu trabalho concluído para o curso de programação Python da Fundação Brade
 ### Certificados
 
 ![PythonBasico](Python_Certificado.png)
+![PythonBasico](Python_Certificado2.png)
+![PythonBasico](Python_Certificado3.png)
+![PythonBasico](Python_Certificado4.png)
 
